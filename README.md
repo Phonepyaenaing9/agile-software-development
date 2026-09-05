@@ -1,1 +1,0 @@
-# agile-software-development
